@@ -96,3 +96,5 @@ div a:hover {
   right: 13%;
   bottom: 17%;
 }
+@media (min-width: 567px) {
+}
